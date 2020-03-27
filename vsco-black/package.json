@@ -1,0 +1,26 @@
+{
+    "name": "vsco-black",
+    "publisher": "Orsen",
+    "displayName": "vsco-black",
+    "description": "Pop N' Lock Theme by Luxcium ✨ with dart N' go support",
+    "version": "0.1.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vsco black✨",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vsco black✨-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/orsenkucher/vsco.git"
+    }
+}

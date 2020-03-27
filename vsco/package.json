@@ -1,0 +1,21 @@
+{
+    "name": "vsco",
+    "displayName": "vsco",
+    "description": "Pop N' Lock Theme by Luxcium ✨ orsen👾",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pop N' Lock Theme by Luxcium ✨ orsen 👾",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pop N' Lock Theme by Luxcium ✨ orsen 👾-color-theme.json"
+            }
+        ]
+    }
+}
