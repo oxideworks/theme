@@ -28,6 +28,6 @@ func token() error {
 		return errors.New("Can't read file")
 	}
 	fmt.Println(string(token))
-	
+
 	return nil
 }

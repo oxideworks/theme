@@ -828,6 +828,17 @@
 		// 		"foreground": "#889b4a"
 		// 	}
 		// },
+		// RUST ---------------------------------------
+		{
+			"scope": [
+				"source.rust support.function.core.rust"
+			],
+			"settings": {
+				// "foreground": "#FC6D"
+				"foreground": "#d3869b"
+				// "foreground": "#FABD2F"
+			}
+		},
 		// GO ---------------------------------------
 		{
 			"scope": [
