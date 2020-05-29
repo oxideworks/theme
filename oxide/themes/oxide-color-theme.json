@@ -831,7 +831,8 @@
 		// RUST ---------------------------------------
 		{
 			"scope": [
-				"source.rust support.function.core.rust"
+				"source.rust support.function.core.rust",
+				"source.rust support.function.std.rust"
 			],
 			"settings": {
 				// "foreground": "#FC6D"

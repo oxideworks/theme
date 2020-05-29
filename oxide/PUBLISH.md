@@ -18,6 +18,7 @@ To revoke token see:
 * [guide](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 
 ```bash
+$ vsce publish patch
 $ vsce publish minor
 $ vsce publish 2.0.1
 ```
