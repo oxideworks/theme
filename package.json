@@ -1,0 +1,27 @@
+{
+    "name": "oxide",
+    "publisher": "orsen",
+    "displayName": "Oxide",
+    "description": "Metal through oxide crust",
+    "version": "0.0.4",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/orsenkucher/vsco"
+    },
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "512h/oxide.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oxide",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oxide-color-theme.json"
+            }
+        ]
+    }
+}
